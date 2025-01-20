@@ -21,6 +21,9 @@ This project uses machine learning to predict the success or failure of startups
 ---
 
 ## **Workflow Diagram**
+![image](https://github.com/user-attachments/assets/0c3ae6bd-b153-4698-823d-34c81646f862)
+
+
 
 ### **Step 1: Data Preprocessing**
 - Load the dataset and clean it by:
